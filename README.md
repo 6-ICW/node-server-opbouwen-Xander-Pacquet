@@ -8,7 +8,7 @@ Er zit een gitignore file in --> LAAT DIT STAAN!
 
 Alles op vlak van return gebeurt via een JSON bestand
 
-1. Een basis route met een 'welkom' als return
+1. Een basis route met een 'welkom' als return 'ok'
 2. Een route: items --> als return krijg je alle items (enkel naam)
 3. Een route: items/ID --> als je een id mee geeft krijg je de details te zien van dit item.
 4. Een route: deleteItem/ID --> je verwijdert 1 item uit de lijst. Als return krijg je alle overgebleven items tezien. 

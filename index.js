@@ -5,7 +5,7 @@ const app = express()
 
 app.use(express.json())
 
-app.use('/items',routes_items)
+app.use('/basis',routes_items)
 
 app.get("/",(req,res)=>{
     res.send("welkom op mijn <i>pagina</i>")
